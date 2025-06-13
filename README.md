@@ -1,2 +1,2 @@
 # Zaf's Mod
-My open source projects for anyone!
+My open source project for anyone!
