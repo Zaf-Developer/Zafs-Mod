@@ -1,2 +1,2 @@
-# Zaf's Mod
+# Zaf's Launcher
 My open source project for anyone!
