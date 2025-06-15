@@ -20,3 +20,7 @@ There are 2 ways:
 1: Select Doom II and in the parameters put the name of the pk3 file along with its file extension, example: mod.pk3
 
 2: Drag the pk3 file to the GZ Doom engine executable or any other and open it, then select Doom II.
+
+# Do they work with Multiplayer or other Mods?
+
+They work pretty well with other mods and with multiplayer.
