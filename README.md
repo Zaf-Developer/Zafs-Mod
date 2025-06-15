@@ -1,2 +1,4 @@
 # Zaf's Launcher
 My open source project for anyone!
+
+My pk3 mods need to run with DOOM II
