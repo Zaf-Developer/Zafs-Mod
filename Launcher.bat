@@ -76,7 +76,7 @@ goto fin
 start "" engine\exec\loader.exe -iwad engine\source\doom2.wad
 goto fin
 
-:freedom1
+:freedoom1
 start "" engine\exec\loader.exe -iwad engine\source\freedoom1.wad
 goto fin
 
